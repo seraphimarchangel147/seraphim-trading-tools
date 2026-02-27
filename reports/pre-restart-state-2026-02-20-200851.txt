@@ -1,0 +1,3 @@
+Pre-restart snapshot saved.
+- PM2 process list persisted via pm2 save.
+- Check positions after reboot with: pm2 ls && pm2 logs <bot> --lines 30 --nostream

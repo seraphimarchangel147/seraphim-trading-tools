@@ -1,0 +1,38 @@
+{
+  "name": "clawd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.28.0",
+    "@drift-labs/sdk": "^2.155.0",
+    "@getalby/sdk": "^7.0.0",
+    "@nktkas/hyperliquid": "^0.31.0",
+    "@noble/hashes": "^2.0.1",
+    "@noble/secp256k1": "^3.0.0",
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.98.4",
+    "bs58": "^6.0.0",
+    "dotenv": "^17.2.3",
+    "ethers": "^6.16.0",
+    "form-data": "^4.0.5",
+    "fs-extra": "^11.3.3",
+    "kafkajs": "^2.2.4",
+    "node-cron": "^4.2.1",
+    "nostr-tools": "^2.22.1",
+    "pg": "^8.18.0",
+    "playwright": "^1.58.1",
+    "playwright-core": "^1.58.2",
+    "puppeteer": "^24.36.1",
+    "uuid": "^13.0.0",
+    "viem": "^2.46.2",
+    "ws": "^8.19.0"
+  }
+}

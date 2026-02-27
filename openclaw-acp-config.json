@@ -1,0 +1,141 @@
+{
+  "meta": {
+    "lastTouchedVersion": "2026.2.26",
+    "lastTouchedAt": "2026-02-27T01:10:00.000Z"
+  },
+  "wizard": {
+    "lastRunAt": "2026-02-25T04:25:00.565Z",
+    "lastRunVersion": "2026.2.24",
+    "lastRunCommand": "configure",
+    "lastRunMode": "local"
+  },
+  "browser": {
+    "enabled": true,
+    "evaluateEnabled": true,
+    "headless": false
+  },
+  "auth": {
+    "profiles": {
+      "kimi-coding:default": {
+        "provider": "kimi-coding",
+        "mode": "api_key"
+      },
+      "openai-codex:default": {
+        "provider": "openai-codex",
+        "mode": "oauth"
+      },
+      "openrouter:default": {
+        "provider": "openrouter",
+        "mode": "api_key"
+      }
+    }
+  },
+  "agents": {
+    "defaults": {
+      "model": {
+        "primary": "kimi-coding/k2p5",
+        "fallbacks": [
+          "openrouter/moonshotai/kimi-k2.5",
+          "openrouter/minimax/minimax-m2.5",
+          "openai-codex/gpt-5.3-codex",
+          "openai-codex/gpt-5.2-codex",
+          "openrouter/auto"
+        ]
+      },
+      "models": {
+        "kimi-coding/k2p5": {
+          "alias": "Kimi K2.5"
+        },
+        "openrouter/moonshotai/kimi-k2.5": {},
+        "openrouter/minimax/minimax-m2.5": {},
+        "openai-codex/gpt-5.3-codex": {},
+        "openai-codex/gpt-5.2-codex": {},
+        "openrouter/auto": {
+          "alias": "OpenRouter"
+        }
+      },
+      "workspace": "/home/usapcool/.openclaw/workspace",
+      "maxConcurrent": 4,
+      "subagents": {
+        "maxConcurrent": 8
+      }
+    }
+  },
+  "acp": {
+    "enabled": true,
+    "dispatch": {
+      "enabled": true
+    },
+    "defaultAgent": "gimel",
+    "agents": {
+      "gimel": {
+        "harness": "codex",
+        "timeout": 300,
+        "workspace": "/home/usapcool/.openclaw/workspace"
+      },
+      "erelim": {
+        "harness": "claude-code",
+        "timeout": 300,
+        "workspace": "/home/usapcool/.openclaw/workspace"
+      },
+      "zeta": {
+        "harness": "pi",
+        "timeout": 300,
+        "workspace": "/home/usapcool/.openclaw/workspace"
+      }
+    }
+  },
+  "tools": {
+    "web": {
+      "search": {
+        "enabled": true
+      },
+      "fetch": {
+        "enabled": true
+      }
+    }
+  },
+  "messages": {
+    "ackReactionScope": "group-mentions"
+  },
+  "commands": {
+    "native": "auto",
+    "nativeSkills": "auto",
+    "restart": true,
+    "ownerDisplay": "raw"
+  },
+  "channels": {
+    "telegram": {
+      "enabled": true,
+      "dmPolicy": "pairing",
+      "botToken": "8236586957:AAEJQQFcl50m-PBw6PY4UbCLcOKIDiRzk3E",
+      "groupPolicy": "allowlist",
+      "streaming": "partial"
+    }
+  },
+  "gateway": {
+    "port": 18789,
+    "mode": "local",
+    "bind": "auto",
+    "auth": {
+      "mode": "token",
+      "token": "6406ca79ee66b612c9b14ec931f96bf97b441cd0fc34f2f9"
+    },
+    "tailscale": {
+      "mode": "off",
+      "resetOnExit": false
+    }
+  },
+  "skills": {
+    "install": {
+      "nodeManager": "pnpm"
+    }
+  },
+  "plugins": {
+    "entries": {
+      "telegram": {
+        "enabled": true
+      }
+    }
+  }
+}

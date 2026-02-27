@@ -1,0 +1,1 @@
+/home/usapcool/.openclaw/workspace/tasks/lessons.md

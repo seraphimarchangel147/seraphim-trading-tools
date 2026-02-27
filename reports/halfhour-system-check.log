@@ -1,0 +1,1763 @@
+[2026-02-21T00:03:05-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T00:03:05-05:00] [OK] obsidian-cli: /home/usapcool/serphim obsidian vault
+[2026-02-21T00:03:21-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T00:03:21-05:00] [OK] obsidian-cli: /home/usapcool/serphim obsidian vault
+[2026-02-21T00:03:56-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T00:03:56-05:00] [OK] obsidian-cli: /home/usapcool/serphim obsidian vault
+[2026-02-21T00:03:56-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T00:03:56-05:00] [INFO] pm2: │ 0  │ drift-auto-trader        │ default     │ 1.0.0   │ fork    │ 0        │ 0      │ 0    │ stopped   │ 0%       │ 0b       │ usapcool │ disabled │;│ 1  │ drift-short-bot          │ default     │ 1.0.0   │ fork    │ 32526    │ 3h     │ 1    │ online    │ 0%       │ 127.1mb  │ usapcool │ disabled │;│ 4  │ entry-optimizer          │ default     │ 1.0.0   │ fork    │ 32546    │ 3h     │ 1    │ online    │ 0%       │ 98.8mb   │ usapcool │ disabled │;│ 5  │ hyperliquid-bot          │ default     │ 1.0.0   │ fork    │ 32534    │ 3h     │ 1    │ online    │ 0%       │ 112.3mb  │ usapcool │ disabled │;│ 6  │ regime-switcher          │ default     │ 1.0.0   │ fork    │ 32558    │ 3h     │ 1    │ online    │ 0%       │ 102.0mb  │ usapcool │ disabled │;
+[2026-02-21T00:03:56.694102] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T00:03:56.694102] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T00:03:56.694102] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T00:03:56-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T00:03:56-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T00:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T00:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T00:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T00:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T00:30:01.406404] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T00:30:01.406404] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T00:30:01.406404] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T00:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T00:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T01:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T01:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T01:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T01:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T01:00:01.791324] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T01:00:01.791324] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T01:00:01.791324] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T01:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T01:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T01:30:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T01:30:02-05:00] [WARN] obsidian-cli not found
+[2026-02-21T01:30:02-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T01:30:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T01:30:02.800425] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T01:30:02.800425] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T01:30:02.800425] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T01:30:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T01:30:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T02:00:03-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T02:00:03-05:00] [WARN] obsidian-cli not found
+[2026-02-21T02:00:03-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T02:00:03-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T02:00:03.463622] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T02:00:03.463622] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T02:00:03.463622] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T02:00:03-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T02:00:03-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T02:30:03-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T02:30:03-05:00] [WARN] obsidian-cli not found
+[2026-02-21T02:30:03-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T02:30:03-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T02:30:03.474151] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T02:30:03.474151] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T02:30:03.474151] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T02:30:03-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T02:30:03-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T03:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T03:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T03:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T03:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T03:00:01.951330] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T03:00:01.951330] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T03:00:01.951330] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T03:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T03:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T03:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T03:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T03:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T03:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T03:30:01.676490] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T03:30:01.676490] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T03:30:01.676490] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T03:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T03:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T04:00:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T04:00:02-05:00] [WARN] obsidian-cli not found
+[2026-02-21T04:00:02-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T04:00:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T04:00:02.155698] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T04:00:02.155698] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T04:00:02.155698] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T04:00:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T04:00:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T04:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T04:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T04:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T04:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T04:30:01.679628] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T04:30:01.679628] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T04:30:01.679628] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T04:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T04:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T05:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T05:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T05:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T05:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T05:00:01.841625] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T05:00:01.841625] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T05:00:01.841625] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T05:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T05:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T05:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T05:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T05:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T05:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T05:30:01.488858] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T05:30:01.488858] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T05:30:01.488858] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T05:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T05:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T06:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T06:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T06:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T06:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T06:00:01.854338] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T06:00:01.854338] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T06:00:01.854338] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T06:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T06:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T06:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T06:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T06:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T06:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T06:30:01.348129] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T06:30:01.348129] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T06:30:01.348129] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T06:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T06:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T07:00:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T07:00:02-05:00] [WARN] obsidian-cli not found
+[2026-02-21T07:00:02-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T07:00:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T07:00:02.090470] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T07:00:02.090470] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T07:00:02.090470] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T07:00:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T07:00:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T07:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T07:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T07:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T07:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T07:30:01.490585] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T07:30:01.490585] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T07:30:01.490585] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T07:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T07:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T08:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T08:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T08:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T08:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T08:00:01.459735] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T08:00:01.459735] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T08:00:01.459735] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T08:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T08:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T08:30:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T08:30:02-05:00] [WARN] obsidian-cli not found
+[2026-02-21T08:30:02-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T08:30:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T08:30:02.102141] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T08:30:02.102141] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T08:30:02.102141] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T08:30:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T08:30:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T09:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T09:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T09:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T09:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T09:00:01.297534] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T09:00:01.297534] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T09:00:01.297534] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T09:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T09:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T09:30:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T09:30:02-05:00] [WARN] obsidian-cli not found
+[2026-02-21T09:30:02-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T09:30:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T09:30:02.284273] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T09:30:02.284273] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T09:30:02.284273] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T09:30:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T09:30:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T10:00:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T10:00:02-05:00] [WARN] obsidian-cli not found
+[2026-02-21T10:00:02-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T10:00:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T10:00:02.304987] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T10:00:02.304987] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T10:00:02.304987] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T10:00:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T10:00:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T10:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T10:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T10:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T10:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T10:30:01.622098] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T10:30:01.622098] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T10:30:01.622098] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T10:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T10:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T11:00:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T11:00:02-05:00] [WARN] obsidian-cli not found
+[2026-02-21T11:00:02-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T11:00:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T11:00:02.225980] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T11:00:02.225980] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T11:00:02.225980] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T11:00:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T11:00:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T11:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T11:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T11:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T11:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T11:30:01.719989] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T11:30:01.719989] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T11:30:01.719989] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T11:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T11:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T12:00:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T12:00:02-05:00] [WARN] obsidian-cli not found
+[2026-02-21T12:00:02-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T12:00:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T12:00:02.106226] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T12:00:02.106226] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T12:00:02.106226] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T12:00:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T12:00:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T12:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T12:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T12:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T12:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T12:30:01.693195] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T12:30:01.693195] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T12:30:01.693195] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T12:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T12:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T13:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T13:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T13:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T13:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T13:00:01.523341] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T13:00:01.523341] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T13:00:01.523341] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T13:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T13:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T13:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T13:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T13:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T13:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T13:30:01.550135] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T13:30:01.550135] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T13:30:01.550135] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T13:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T13:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T14:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T14:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T14:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T14:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T14:00:01.729277] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T14:00:01.729277] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T14:00:01.729277] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T14:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T14:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T14:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T14:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T14:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T14:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T14:30:01.484954] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T14:30:01.484954] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T14:30:01.484954] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T14:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T14:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T15:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T15:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T15:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T15:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T15:00:01.947545] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T15:00:01.947545] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T15:00:01.947545] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T15:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T15:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T15:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T15:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T15:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T15:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T15:30:01.346552] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T15:30:01.346552] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T15:30:01.346552] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T15:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T15:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T16:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T16:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T16:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T16:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T16:00:01.819823] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-21T16:00:01.819823] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T16:00:01.819823] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T16:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T16:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T16:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T16:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T16:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T16:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T16:30:01.532669] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-21T16:30:01.532669] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T16:30:01.532669] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T16:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T16:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T17:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T17:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T17:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T17:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T17:00:01.448798] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-21T17:00:01.448798] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T17:00:01.448798] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T17:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T17:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T17:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T17:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T17:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T17:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T17:30:01.668602] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-21T17:30:01.668602] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T17:30:01.668602] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T17:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T17:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T18:00:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T18:00:02-05:00] [WARN] obsidian-cli not found
+[2026-02-21T18:00:02-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T18:00:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T18:00:02.144648] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-21T18:00:02.144648] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T18:00:02.144648] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T18:00:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T18:00:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T18:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T18:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T18:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T18:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T18:30:01.999352] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-21T18:30:01.999352] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T18:30:01.999352] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T18:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T18:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T19:00:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T19:00:02-05:00] [WARN] obsidian-cli not found
+[2026-02-21T19:00:02-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T19:00:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T19:00:02.179310] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-21T19:00:02.179310] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T19:00:02.179310] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T19:00:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T19:00:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T19:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T19:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T19:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T19:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T19:30:01.711199] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-21T19:30:01.711199] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T19:30:01.711199] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T19:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T19:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T20:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T20:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T20:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T20:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T20:00:01.453537] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-21T20:00:01.453537] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T20:00:01.453537] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T20:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T20:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T20:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T20:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T20:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T20:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T20:30:01.588686] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-21T20:30:01.588686] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T20:30:01.588686] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T20:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T20:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T21:00:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T21:00:02-05:00] [WARN] obsidian-cli not found
+[2026-02-21T21:00:02-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T21:00:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T21:00:02.202334] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-21T21:00:02.202334] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T21:00:02.202334] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T21:00:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T21:00:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T21:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T21:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T21:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T21:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T21:30:01.850740] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T21:30:01.850740] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T21:30:01.850740] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-21T21:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T21:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T22:00:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T22:00:02-05:00] [WARN] obsidian-cli not found
+[2026-02-21T22:00:02-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T22:00:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T22:00:02.064364] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T22:00:02.064364] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T22:00:02.064364] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T22:00:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T22:00:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T22:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T22:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T22:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T22:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T22:30:01.368836] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-21T22:30:01.368836] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T22:30:01.368836] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T22:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T22:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T23:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T23:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T23:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T23:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T23:00:01.095033] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-21T23:00:01.095033] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T23:00:01.095033] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T23:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T23:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-21T23:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-21T23:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-21T23:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-21T23:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-21T23:30:01.624208] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-21T23:30:01.624208] [INFO] drift_short: open=False today=0W/0L pnl=$0.00
+[2026-02-21T23:30:01.624208] [INFO] hyper: open=True trades=0 pnl=$0.00
+[2026-02-21T23:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-21T23:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T00:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T00:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T00:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T00:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T00:00:01.943284] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T00:00:01.943284] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T00:00:01.943284] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T00:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-22T00:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T00:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T00:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T00:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T00:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T00:30:01.472883] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T00:30:01.472883] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T00:30:01.472883] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T00:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-22T00:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T01:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T01:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T01:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T01:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T01:00:01.332392] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T01:00:01.332392] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T01:00:01.332392] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T01:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[2026-02-22T01:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T01:02:52-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T01:02:52-05:00] [OK] obsidian-cli: /home/usapcool/serphim obsidian vault
+[2026-02-22T01:02:52-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T01:02:52-05:00] [INFO] pm2: │ 0  │ drift-auto-trader        │ default     │ 1.0.0   │ fork    │ 95161    │ 2h     │ 3    │ online    │ 0%       │ 163.8mb  │ usapcool │ disabled │;│ 1  │ drift-short-bot          │ default     │ 1.0.0   │ fork    │ 62532    │ 29m    │ 11   │ online    │ 0%       │ 156.0mb  │ usapcool │ disabled │;│ 4  │ entry-optimizer          │ default     │ 1.0.0   │ fork    │ 32546    │ 28h    │ 1    │ online    │ 0%       │ 106.0mb  │ usapcool │ disabled │;│ 5  │ hyperliquid-bot          │ default     │ 1.0.0   │ fork    │ 8963     │ 9h     │ 2    │ online    │ 0%       │ 112.3mb  │ usapcool │ disabled │;│ 6  │ regime-switcher          │ default     │ 1.0.0   │ fork    │ 11062    │ 9h     │ 3    │ online    │ 0%       │ 105.4mb  │ usapcool │ disabled │;
+[2026-02-22T01:02:52-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T01:02:54.110607] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T01:02:54.110607] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T01:02:54.110607] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T01:02:52-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=0.0
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=0.0
+[OK] hot_doc_age_hours trading-rules.md=0.0
+[2026-02-22T01:02:52-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T01:03:49-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T01:03:49-05:00] [OK] obsidian-cli: /home/usapcool/serphim obsidian vault
+[2026-02-22T01:03:49-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T01:03:49-05:00] [INFO] pm2: │ 0  │ drift-auto-trader        │ default     │ 1.0.0   │ fork    │ 95161    │ 2h     │ 3    │ online    │ 0%       │ 163.8mb  │ usapcool │ disabled │;│ 1  │ drift-short-bot          │ default     │ 1.0.0   │ fork    │ 62532    │ 30m    │ 11   │ online    │ 0%       │ 156.0mb  │ usapcool │ disabled │;│ 4  │ entry-optimizer          │ default     │ 1.0.0   │ fork    │ 32546    │ 28h    │ 1    │ online    │ 0%       │ 106.0mb  │ usapcool │ disabled │;│ 5  │ hyperliquid-bot          │ default     │ 1.0.0   │ fork    │ 8963     │ 9h     │ 2    │ online    │ 0%       │ 112.3mb  │ usapcool │ disabled │;│ 6  │ regime-switcher          │ default     │ 1.0.0   │ fork    │ 11062    │ 9h     │ 3    │ online    │ 0%       │ 105.5mb  │ usapcool │ disabled │;
+[2026-02-22T01:03:49-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T01:03:50.628024] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T01:03:50.628024] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T01:03:50.628024] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T01:03:49-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=0.0
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=0.0
+[OK] hot_doc_age_hours trading-rules.md=0.0
+[2026-02-22T01:03:49-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T01:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T01:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T01:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T01:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T01:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T01:30:02.380893] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T01:30:02.380893] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T01:30:02.380893] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T01:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=0.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=0.5
+[OK] hot_doc_age_hours trading-rules.md=0.5
+[2026-02-22T01:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T02:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T02:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T02:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T02:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T02:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T02:00:02.629248] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T02:00:02.629248] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T02:00:02.629248] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T02:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=0.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=1.0
+[OK] hot_doc_age_hours trading-rules.md=1.0
+[2026-02-22T02:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T02:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T02:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T02:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T02:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T02:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T02:30:02.967875] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T02:30:02.967875] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T02:30:02.967875] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T02:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=1.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=1.5
+[OK] hot_doc_age_hours trading-rules.md=1.5
+[2026-02-22T02:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T03:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T03:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T03:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T03:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T03:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T03:00:02.416042] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T03:00:02.416042] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T03:00:02.416042] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T03:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=1.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=2.0
+[OK] hot_doc_age_hours trading-rules.md=2.0
+[2026-02-22T03:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T03:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T03:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T03:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T03:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T03:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T03:30:02.272956] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T03:30:02.272956] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T03:30:02.272956] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T03:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=2.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=2.5
+[OK] hot_doc_age_hours trading-rules.md=2.5
+[2026-02-22T03:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T04:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T04:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T04:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T04:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T04:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T04:00:03.629607] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T04:00:03.629607] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T04:00:03.629607] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T04:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=2.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=3.0
+[OK] hot_doc_age_hours trading-rules.md=3.0
+[2026-02-22T04:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T04:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T04:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T04:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T04:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T04:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T04:30:03.495475] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T04:30:03.495475] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T04:30:03.495475] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T04:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=3.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=3.5
+[OK] hot_doc_age_hours trading-rules.md=3.5
+[2026-02-22T04:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T05:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T05:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T05:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T05:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T05:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T05:00:02.056964] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T05:00:02.056964] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T05:00:02.056964] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T05:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=3.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=4.0
+[OK] hot_doc_age_hours trading-rules.md=4.0
+[2026-02-22T05:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T05:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T05:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T05:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T05:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T05:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T05:30:02.749822] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T05:30:02.749822] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T05:30:02.749822] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T05:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=4.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=4.5
+[OK] hot_doc_age_hours trading-rules.md=4.5
+[2026-02-22T05:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T06:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T06:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T06:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T06:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T06:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T06:00:02.809503] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T06:00:02.809503] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T06:00:02.809503] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T06:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=4.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=5.0
+[OK] hot_doc_age_hours trading-rules.md=5.0
+[2026-02-22T06:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T06:30:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T06:30:02-05:00] [WARN] obsidian-cli not found
+[2026-02-22T06:30:02-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T06:30:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T06:30:02-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T06:30:03.425446] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T06:30:03.425446] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T06:30:03.425446] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T06:30:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=5.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=5.5
+[OK] hot_doc_age_hours trading-rules.md=5.5
+[2026-02-22T06:30:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T07:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T07:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T07:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T07:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T07:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T07:00:02.613739] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T07:00:02.613739] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T07:00:02.613739] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T07:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=5.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=6.0
+[OK] hot_doc_age_hours trading-rules.md=6.0
+[2026-02-22T07:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T07:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T07:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T07:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T07:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T07:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T07:30:02.012611] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T07:30:02.012611] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T07:30:02.012611] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T07:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=6.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=6.5
+[OK] hot_doc_age_hours trading-rules.md=6.5
+[2026-02-22T07:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T08:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T08:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T08:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T08:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T08:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T08:00:02.460939] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T08:00:02.460939] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T08:00:02.460939] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T08:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=6.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=7.0
+[OK] hot_doc_age_hours trading-rules.md=7.0
+[2026-02-22T08:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T08:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T08:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T08:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T08:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T08:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T08:30:03.613406] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T08:30:03.613406] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-22T08:30:03.613406] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T08:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=7.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=7.5
+[OK] hot_doc_age_hours trading-rules.md=7.5
+[2026-02-22T08:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T09:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T09:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T09:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T09:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T09:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T09:00:03.163470] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T09:00:03.163470] [INFO] drift_short: open=True today=2W/0L pnl=$1.71
+[2026-02-22T09:00:03.163470] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T09:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=7.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=8.0
+[OK] hot_doc_age_hours trading-rules.md=8.0
+[2026-02-22T09:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T09:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T09:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T09:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T09:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T09:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T09:30:02.810799] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T09:30:02.810799] [INFO] drift_short: open=True today=6W/0L pnl=$5.42
+[2026-02-22T09:30:02.810799] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T09:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=8.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=8.5
+[OK] hot_doc_age_hours trading-rules.md=8.5
+[2026-02-22T09:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T10:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T10:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T10:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T10:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T10:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T10:00:02.290370] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T10:00:02.290370] [INFO] drift_short: open=True today=6W/0L pnl=$5.42
+[2026-02-22T10:00:02.290370] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T10:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=8.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=9.0
+[OK] hot_doc_age_hours trading-rules.md=9.0
+[2026-02-22T10:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T10:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T10:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T10:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T10:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T10:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T10:30:02.347912] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T10:30:02.347912] [INFO] drift_short: open=True today=6W/0L pnl=$5.42
+[2026-02-22T10:30:02.347912] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T10:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=9.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=9.5
+[OK] hot_doc_age_hours trading-rules.md=9.5
+[2026-02-22T10:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T11:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T11:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T11:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T11:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T11:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T11:00:01.942485] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T11:00:01.942485] [INFO] drift_short: open=True today=6W/0L pnl=$5.42
+[2026-02-22T11:00:01.942485] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T11:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=9.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=10.0
+[OK] hot_doc_age_hours trading-rules.md=10.0
+[2026-02-22T11:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T11:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T11:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T11:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T11:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T11:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T11:30:02.708019] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T11:30:02.708019] [INFO] drift_short: open=False today=10W/0L pnl=$10.48
+[2026-02-22T11:30:02.708019] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T11:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=10.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=10.5
+[OK] hot_doc_age_hours trading-rules.md=10.5
+[2026-02-22T11:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T12:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T12:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T12:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T12:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T12:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T12:00:02.410316] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T12:00:02.410316] [INFO] drift_short: open=False today=10W/0L pnl=$10.48
+[2026-02-22T12:00:02.410316] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T12:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=10.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=11.0
+[OK] hot_doc_age_hours trading-rules.md=11.0
+[2026-02-22T12:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T12:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T12:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T12:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T12:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T12:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T12:30:02.049977] [INFO] drift_auto: open=True today=0W/0L pnl=$0.00
+[2026-02-22T12:30:02.049977] [INFO] drift_short: open=True today=10W/0L pnl=$10.48
+[2026-02-22T12:30:02.049977] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T12:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=11.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=11.5
+[OK] hot_doc_age_hours trading-rules.md=11.5
+[2026-02-22T12:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T13:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T13:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T13:00:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T13:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T13:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T13:00:02.971206] [INFO] drift_auto: open=True today=2W/1L pnl=$0.45
+[2026-02-22T13:00:02.971206] [INFO] drift_short: open=True today=10W/0L pnl=$10.48
+[2026-02-22T13:00:02.971206] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T13:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=11.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=12.0
+[OK] hot_doc_age_hours trading-rules.md=12.0
+[2026-02-22T13:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T13:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T13:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T13:30:01-05:00] [OK] HEARTBEAT.md present (no active tasks)
+[2026-02-22T13:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T13:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T13:30:03.381762] [INFO] drift_auto: open=False today=4W/1L pnl=$1.60
+[2026-02-22T13:30:03.381762] [INFO] drift_short: open=True today=10W/0L pnl=$10.48
+[2026-02-22T13:30:03.381762] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T13:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=12.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=12.5
+[OK] hot_doc_age_hours trading-rules.md=12.5
+[2026-02-22T13:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T14:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T14:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T14:00:01-05:00] [OK] HEARTBEAT.md active tasks: 9
+[2026-02-22T14:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T14:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T14:00:03.197232] [INFO] drift_auto: open=False today=4W/2L pnl=$1.24
+[2026-02-22T14:00:03.197232] [INFO] drift_short: open=True today=10W/0L pnl=$10.48
+[2026-02-22T14:00:03.197232] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T14:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=12.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=13.0
+[OK] hot_doc_age_hours trading-rules.md=13.0
+[2026-02-22T14:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T14:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T14:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T14:30:01-05:00] [OK] HEARTBEAT.md active tasks: 13
+[2026-02-22T14:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T14:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T14:30:02.508493] [INFO] drift_auto: open=True today=4W/2L pnl=$1.24
+[2026-02-22T14:30:02.508493] [INFO] drift_short: open=False today=11W/0L pnl=$10.49
+[2026-02-22T14:30:02.508493] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T14:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=13.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=13.5
+[OK] hot_doc_age_hours trading-rules.md=13.5
+[2026-02-22T14:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T15:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T15:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T15:00:01-05:00] [OK] HEARTBEAT.md active tasks: 18
+[2026-02-22T15:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T15:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T15:00:02.645366] [INFO] drift_auto: open=True today=4W/2L pnl=$1.24
+[2026-02-22T15:00:02.645366] [INFO] drift_short: open=False today=11W/0L pnl=$10.49
+[2026-02-22T15:00:02.645366] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T15:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=13.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=14.0
+[OK] hot_doc_age_hours trading-rules.md=14.0
+[2026-02-22T15:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T15:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T15:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T15:30:01-05:00] [OK] HEARTBEAT.md active tasks: 18
+[2026-02-22T15:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T15:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T15:30:03.179598] [INFO] drift_auto: open=True today=4W/2L pnl=$1.24
+[2026-02-22T15:30:03.179598] [INFO] drift_short: open=False today=11W/0L pnl=$10.49
+[2026-02-22T15:30:03.179598] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T15:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=14.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=14.5
+[OK] hot_doc_age_hours trading-rules.md=14.5
+[2026-02-22T15:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T16:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T16:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T16:00:01-05:00] [OK] HEARTBEAT.md active tasks: 18
+[2026-02-22T16:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T16:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T16:00:03.193876] [INFO] drift_auto: open=True today=4W/2L pnl=$1.24
+[2026-02-22T16:00:03.193876] [INFO] drift_short: open=False today=11W/0L pnl=$10.49
+[2026-02-22T16:00:03.193876] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T16:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=14.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=15.0
+[OK] hot_doc_age_hours trading-rules.md=15.0
+[2026-02-22T16:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T16:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T16:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T16:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T16:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T16:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T16:30:03.239029] [INFO] drift_auto: open=True today=4W/2L pnl=$1.24
+[2026-02-22T16:30:03.239029] [INFO] drift_short: open=False today=11W/0L pnl=$10.49
+[2026-02-22T16:30:03.239029] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T16:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=15.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=15.5
+[OK] hot_doc_age_hours trading-rules.md=15.5
+[2026-02-22T16:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T17:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T17:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T17:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T17:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T17:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T17:00:02.796515] [INFO] drift_auto: open=True today=4W/2L pnl=$1.24
+[2026-02-22T17:00:02.796515] [INFO] drift_short: open=True today=11W/0L pnl=$10.49
+[2026-02-22T17:00:02.796515] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T17:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=15.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=16.0
+[OK] hot_doc_age_hours trading-rules.md=16.0
+[2026-02-22T17:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T17:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T17:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T17:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T17:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T17:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T17:30:02.542153] [INFO] drift_auto: open=True today=4W/2L pnl=$1.24
+[2026-02-22T17:30:02.542153] [INFO] drift_short: open=True today=11W/1L pnl=$10.28
+[2026-02-22T17:30:02.542153] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T17:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=16.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=16.5
+[OK] hot_doc_age_hours trading-rules.md=16.5
+[2026-02-22T17:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T18:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T18:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T18:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T18:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T18:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T18:00:02.841138] [INFO] drift_auto: open=True today=4W/2L pnl=$1.24
+[2026-02-22T18:00:02.841138] [INFO] drift_short: open=True today=12W/1L pnl=$10.30
+[2026-02-22T18:00:02.841138] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T18:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=16.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=17.0
+[OK] hot_doc_age_hours trading-rules.md=17.0
+[2026-02-22T18:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T18:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T18:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T18:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T18:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T18:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T18:30:03.048698] [INFO] drift_auto: open=True today=4W/2L pnl=$1.24
+[2026-02-22T18:30:03.048698] [INFO] drift_short: open=True today=12W/1L pnl=$10.30
+[2026-02-22T18:30:03.048698] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T18:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=17.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=17.5
+[OK] hot_doc_age_hours trading-rules.md=17.5
+[2026-02-22T18:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T19:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T19:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T19:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T19:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T19:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-22T19:00:01.922891] [INFO] drift_auto: open=False today=4W/3L pnl=$-4.14
+[2026-02-22T19:00:01.922891] [INFO] drift_short: open=True today=13W/1L pnl=$11.79
+[2026-02-22T19:00:01.922891] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T19:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=17.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=18.0
+[OK] hot_doc_age_hours trading-rules.md=18.0
+[2026-02-22T19:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T19:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T19:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T19:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T19:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T19:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-22T19:30:01-05:00] [WARN] regime validator degraded
+[2026-02-22T19:30:01.590229] [INFO] drift_auto: open=False today=4W/3L pnl=$-4.14
+[2026-02-22T19:30:01.590229] [INFO] drift_short: open=True today=13W/1L pnl=$11.79
+[2026-02-22T19:30:01.590229] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T19:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=18.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=18.5
+[OK] hot_doc_age_hours trading-rules.md=18.5
+[2026-02-22T19:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T20:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T20:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T20:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T20:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T20:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-22T20:00:01-05:00] [WARN] regime validator degraded
+[2026-02-22T20:00:02.098574] [INFO] drift_auto: open=False today=4W/3L pnl=$-4.14
+[2026-02-22T20:00:02.098574] [INFO] drift_short: open=True today=13W/1L pnl=$11.79
+[2026-02-22T20:00:02.098574] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T20:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=18.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=19.0
+[OK] hot_doc_age_hours trading-rules.md=19.0
+[2026-02-22T20:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T20:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T20:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T20:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T20:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T20:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-22T20:30:01-05:00] [WARN] regime validator degraded
+[2026-02-22T20:30:01.444878] [INFO] drift_auto: open=False today=4W/3L pnl=$-4.14
+[2026-02-22T20:30:01.444878] [INFO] drift_short: open=False today=13W/1L pnl=$11.79
+[2026-02-22T20:30:01.444878] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T20:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=19.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=19.5
+[OK] hot_doc_age_hours trading-rules.md=19.5
+[2026-02-22T20:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T21:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T21:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T21:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T21:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T21:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-22T21:00:01-05:00] [WARN] regime validator degraded
+[2026-02-22T21:00:01.775800] [INFO] drift_auto: open=False today=4W/3L pnl=$-4.14
+[2026-02-22T21:00:01.775800] [INFO] drift_short: open=False today=13W/1L pnl=$11.79
+[2026-02-22T21:00:01.775800] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T21:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=19.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=20.0
+[OK] hot_doc_age_hours trading-rules.md=20.0
+[2026-02-22T21:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T21:30:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T21:30:02-05:00] [WARN] obsidian-cli not found
+[2026-02-22T21:30:02-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T21:30:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T21:30:02-05:00] [INFO] regime_validator_status=degraded
+[2026-02-22T21:30:02-05:00] [WARN] regime validator degraded
+[2026-02-22T21:30:02.207146] [INFO] drift_auto: open=False today=4W/3L pnl=$-4.14
+[2026-02-22T21:30:02.207146] [INFO] drift_short: open=True today=13W/1L pnl=$11.79
+[2026-02-22T21:30:02.207146] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T21:30:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=20.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=20.5
+[OK] hot_doc_age_hours trading-rules.md=20.5
+[2026-02-22T21:30:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T22:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T22:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T22:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T22:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T22:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-22T22:00:01-05:00] [WARN] regime validator degraded
+[2026-02-22T22:00:01.638606] [INFO] drift_auto: open=False today=4W/3L pnl=$-4.14
+[2026-02-22T22:00:01.638606] [INFO] drift_short: open=True today=13W/1L pnl=$11.79
+[2026-02-22T22:00:01.638606] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T22:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=20.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=21.0
+[OK] hot_doc_age_hours trading-rules.md=21.0
+[2026-02-22T22:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T22:30:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T22:30:02-05:00] [WARN] obsidian-cli not found
+[2026-02-22T22:30:02-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T22:30:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T22:30:02-05:00] [INFO] regime_validator_status=degraded
+[2026-02-22T22:30:02-05:00] [WARN] regime validator degraded
+[2026-02-22T22:30:02.209785] [INFO] drift_auto: open=False today=4W/3L pnl=$-4.14
+[2026-02-22T22:30:02.209785] [INFO] drift_short: open=True today=13W/1L pnl=$11.79
+[2026-02-22T22:30:02.209785] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T22:30:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=21.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=21.5
+[OK] hot_doc_age_hours trading-rules.md=21.5
+[2026-02-22T22:30:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T23:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T23:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T23:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T23:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T23:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-22T23:00:01-05:00] [WARN] regime validator degraded
+[2026-02-22T23:00:02.010690] [INFO] drift_auto: open=False today=4W/3L pnl=$-4.14
+[2026-02-22T23:00:02.010690] [INFO] drift_short: open=True today=13W/1L pnl=$11.79
+[2026-02-22T23:00:02.010690] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T23:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=21.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=22.0
+[OK] hot_doc_age_hours trading-rules.md=22.0
+[2026-02-22T23:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-22T23:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-22T23:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-22T23:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-22T23:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-22T23:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-22T23:30:01-05:00] [WARN] regime validator degraded
+[2026-02-22T23:30:01.734093] [INFO] drift_auto: open=False today=4W/3L pnl=$-4.14
+[2026-02-22T23:30:01.734093] [INFO] drift_short: open=True today=13W/1L pnl=$11.79
+[2026-02-22T23:30:01.734093] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-22T23:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=22.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=22.5
+[OK] hot_doc_age_hours trading-rules.md=22.5
+[2026-02-22T23:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T00:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T00:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T00:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T00:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T00:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T00:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T00:00:01.658731] [INFO] drift_auto: open=False today=4W/3L pnl=$-4.14
+[2026-02-23T00:00:01.658731] [INFO] drift_short: open=True today=13W/1L pnl=$11.79
+[2026-02-23T00:00:01.658731] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T00:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=22.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=23.0
+[OK] hot_doc_age_hours trading-rules.md=23.0
+[2026-02-23T00:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T00:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T00:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T00:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T00:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T00:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T00:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T00:30:01.658933] [INFO] drift_auto: open=False today=4W/3L pnl=$-4.14
+[2026-02-23T00:30:01.658933] [INFO] drift_short: open=True today=13W/1L pnl=$11.79
+[2026-02-23T00:30:01.658933] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T00:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=23.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=23.5
+[OK] hot_doc_age_hours trading-rules.md=23.5
+[2026-02-23T00:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T01:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T01:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T01:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T01:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T01:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T01:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T01:00:02.044460] [INFO] drift_auto: open=False today=0W/0L pnl=$0.00
+[2026-02-23T01:00:02.044460] [INFO] drift_short: open=True today=13W/1L pnl=$11.79
+[2026-02-23T01:00:02.044460] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T01:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[OK] hot_doc_age_hours MEMORY.md=23.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[OK] hot_doc_age_hours bot-params.md=24.0
+[OK] hot_doc_age_hours trading-rules.md=24.0
+[2026-02-23T01:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T01:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T01:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T01:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T01:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T01:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T01:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T01:30:02.049505] [INFO] drift_auto: open=False today=0W/1L pnl=$-0.06
+[2026-02-23T01:30:02.049505] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-23T01:30:02.049505] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T01:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=24.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=24.5
+[WARN] hot_doc_age_hours trading-rules.md=24.5
+[2026-02-23T01:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T02:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T02:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T02:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T02:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T02:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T02:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T02:00:01.868814] [INFO] drift_auto: open=True today=0W/1L pnl=$-0.06
+[2026-02-23T02:00:01.868814] [INFO] drift_short: open=True today=0W/0L pnl=$0.00
+[2026-02-23T02:00:01.868814] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T02:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=24.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=25.0
+[WARN] hot_doc_age_hours trading-rules.md=25.0
+[2026-02-23T02:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T02:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T02:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T02:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T02:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T02:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T02:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T02:30:01.671390] [INFO] drift_auto: open=True today=0W/1L pnl=$-0.06
+[2026-02-23T02:30:01.671390] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T02:30:01.671390] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T02:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=25.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=25.5
+[WARN] hot_doc_age_hours trading-rules.md=25.5
+[2026-02-23T02:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T03:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T03:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T03:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T03:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T03:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T03:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T03:00:01.469474] [INFO] drift_auto: open=True today=0W/1L pnl=$-0.06
+[2026-02-23T03:00:01.469474] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T03:00:01.469474] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T03:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=25.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=26.0
+[WARN] hot_doc_age_hours trading-rules.md=26.0
+[2026-02-23T03:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T03:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T03:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T03:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T03:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T03:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T03:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T03:30:01.282825] [INFO] drift_auto: open=True today=0W/1L pnl=$-0.06
+[2026-02-23T03:30:01.282825] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T03:30:01.282825] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T03:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=26.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=26.5
+[WARN] hot_doc_age_hours trading-rules.md=26.5
+[2026-02-23T03:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T04:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T04:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T04:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T04:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T04:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T04:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T04:00:02.124707] [INFO] drift_auto: open=True today=0W/1L pnl=$-0.06
+[2026-02-23T04:00:02.124707] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T04:00:02.124707] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T04:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=26.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=27.0
+[WARN] hot_doc_age_hours trading-rules.md=27.0
+[2026-02-23T04:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T04:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T04:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T04:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T04:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T04:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T04:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T04:30:02.049547] [INFO] drift_auto: open=True today=0W/1L pnl=$-0.06
+[2026-02-23T04:30:02.049547] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T04:30:02.049547] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T04:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=27.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=27.5
+[WARN] hot_doc_age_hours trading-rules.md=27.5
+[2026-02-23T04:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T05:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T05:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T05:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T05:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T05:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T05:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T05:00:01.992775] [INFO] drift_auto: open=True today=0W/1L pnl=$-0.06
+[2026-02-23T05:00:01.992775] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T05:00:01.992775] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T05:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=27.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=28.0
+[WARN] hot_doc_age_hours trading-rules.md=28.0
+[2026-02-23T05:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T05:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T05:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T05:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T05:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T05:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T05:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T05:30:01.980923] [INFO] drift_auto: open=True today=0W/1L pnl=$-0.06
+[2026-02-23T05:30:01.980923] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T05:30:01.980923] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T05:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=28.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=28.5
+[WARN] hot_doc_age_hours trading-rules.md=28.5
+[2026-02-23T05:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T06:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T06:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T06:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T06:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T06:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T06:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T06:00:01.947824] [INFO] drift_auto: open=True today=0W/1L pnl=$-0.06
+[2026-02-23T06:00:01.947824] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T06:00:01.947824] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T06:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=28.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=29.0
+[WARN] hot_doc_age_hours trading-rules.md=29.0
+[2026-02-23T06:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T06:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T06:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T06:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T06:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T06:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T06:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T06:30:01.872252] [INFO] drift_auto: open=True today=0W/1L pnl=$-0.06
+[2026-02-23T06:30:01.872252] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T06:30:01.872252] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T06:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=29.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=29.5
+[WARN] hot_doc_age_hours trading-rules.md=29.5
+[2026-02-23T06:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T07:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T07:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T07:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T07:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T07:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T07:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T07:00:01.886566] [INFO] drift_auto: open=True today=1W/1L pnl=$0.10
+[2026-02-23T07:00:01.886566] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T07:00:01.886566] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T07:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=29.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=30.0
+[WARN] hot_doc_age_hours trading-rules.md=30.0
+[2026-02-23T07:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T07:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T07:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T07:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T07:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T07:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T07:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T07:30:01.951029] [INFO] drift_auto: open=False today=4W/1L pnl=$1.90
+[2026-02-23T07:30:01.951029] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T07:30:01.951029] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T07:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=30.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=30.5
+[WARN] hot_doc_age_hours trading-rules.md=30.5
+[2026-02-23T07:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T08:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T08:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T08:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T08:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T08:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T08:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T08:00:02.101417] [INFO] drift_auto: open=True today=4W/1L pnl=$1.90
+[2026-02-23T08:00:02.101417] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T08:00:02.101417] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T08:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=30.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=31.0
+[WARN] hot_doc_age_hours trading-rules.md=31.0
+[2026-02-23T08:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T08:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T08:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T08:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T08:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T08:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T08:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T08:30:01.327746] [INFO] drift_auto: open=True today=4W/1L pnl=$1.90
+[2026-02-23T08:30:01.327746] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T08:30:01.327746] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T08:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=31.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=31.5
+[WARN] hot_doc_age_hours trading-rules.md=31.5
+[2026-02-23T08:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T09:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T09:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T09:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T09:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T09:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T09:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T09:00:01.477861] [INFO] drift_auto: open=True today=4W/1L pnl=$1.90
+[2026-02-23T09:00:01.477861] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T09:00:01.477861] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T09:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=31.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=32.0
+[WARN] hot_doc_age_hours trading-rules.md=32.0
+[2026-02-23T09:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T09:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T09:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T09:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T09:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T09:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T09:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T09:30:01.623988] [INFO] drift_auto: open=True today=4W/1L pnl=$1.90
+[2026-02-23T09:30:01.623988] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T09:30:01.623988] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T09:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=32.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=32.5
+[WARN] hot_doc_age_hours trading-rules.md=32.5
+[2026-02-23T09:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T10:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T10:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T10:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T10:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T10:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T10:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T10:00:01.622294] [INFO] drift_auto: open=True today=4W/1L pnl=$1.90
+[2026-02-23T10:00:01.622294] [INFO] drift_short: open=False today=0W/1L pnl=$-0.58
+[2026-02-23T10:00:01.622294] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T10:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=32.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=33.0
+[WARN] hot_doc_age_hours trading-rules.md=33.0
+[2026-02-23T10:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T10:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T10:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T10:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T10:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T10:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T10:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T10:30:01.534146] [INFO] drift_auto: open=True today=4W/1L pnl=$1.90
+[2026-02-23T10:30:01.534146] [INFO] drift_short: open=True today=0W/1L pnl=$-0.58
+[2026-02-23T10:30:01.534146] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T10:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=33.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=33.5
+[WARN] hot_doc_age_hours trading-rules.md=33.5
+[2026-02-23T10:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T11:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T11:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T11:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T11:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T11:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T11:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T11:00:01.330567] [INFO] drift_auto: open=True today=4W/1L pnl=$1.90
+[2026-02-23T11:00:01.330567] [INFO] drift_short: open=True today=0W/1L pnl=$-0.58
+[2026-02-23T11:00:01.330567] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T11:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=33.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=34.0
+[WARN] hot_doc_age_hours trading-rules.md=34.0
+[2026-02-23T11:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T11:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T11:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T11:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T11:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T11:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T11:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T11:30:02.092566] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T11:30:02.092566] [INFO] drift_short: open=True today=0W/1L pnl=$-0.58
+[2026-02-23T11:30:02.092566] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T11:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=34.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=34.5
+[WARN] hot_doc_age_hours trading-rules.md=34.5
+[2026-02-23T11:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T12:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T12:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T12:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T12:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T12:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T12:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T12:00:01.841180] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T12:00:01.841180] [INFO] drift_short: open=True today=0W/1L pnl=$-0.58
+[2026-02-23T12:00:01.841180] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T12:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=34.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=35.0
+[WARN] hot_doc_age_hours trading-rules.md=35.0
+[2026-02-23T12:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T12:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T12:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T12:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T12:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T12:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T12:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T12:30:01.668592] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T12:30:01.668592] [INFO] drift_short: open=True today=1W/1L pnl=$-0.12
+[2026-02-23T12:30:01.668592] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T12:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=35.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=35.5
+[WARN] hot_doc_age_hours trading-rules.md=35.5
+[2026-02-23T12:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T13:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T13:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T13:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T13:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T13:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T13:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T13:00:01.506271] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T13:00:01.506271] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T13:00:01.506271] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T13:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=35.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=36.0
+[WARN] hot_doc_age_hours trading-rules.md=36.0
+[2026-02-23T13:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T13:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T13:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T13:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T13:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T13:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T13:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T13:30:01.331542] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T13:30:01.331542] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T13:30:01.331542] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T13:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=36.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=36.5
+[WARN] hot_doc_age_hours trading-rules.md=36.5
+[2026-02-23T13:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T14:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T14:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T14:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T14:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T14:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T14:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T14:00:01.224526] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T14:00:01.224526] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T14:00:01.224526] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T14:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=36.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=37.0
+[WARN] hot_doc_age_hours trading-rules.md=37.0
+[2026-02-23T14:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T14:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T14:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T14:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T14:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T14:30:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T14:30:01-05:00] [WARN] regime validator degraded
+[2026-02-23T14:30:02.118907] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T14:30:02.118907] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T14:30:02.118907] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T14:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=37.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=37.5
+[WARN] hot_doc_age_hours trading-rules.md=37.5
+[2026-02-23T14:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T15:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T15:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T15:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T15:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T15:00:01-05:00] [INFO] regime_validator_status=degraded
+[2026-02-23T15:00:01-05:00] [WARN] regime validator degraded
+[2026-02-23T15:00:01.935848] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T15:00:01.935848] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T15:00:01.935848] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T15:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=37.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=38.0
+[WARN] hot_doc_age_hours trading-rules.md=38.0
+[2026-02-23T15:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T15:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T15:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T15:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T15:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T15:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-23T15:30:02.056106] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T15:30:02.056106] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T15:30:02.056106] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T15:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=38.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=38.5
+[WARN] hot_doc_age_hours trading-rules.md=38.5
+[2026-02-23T15:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T16:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T16:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T16:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T16:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T16:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-23T16:00:02.138709] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T16:00:02.138709] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T16:00:02.138709] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T16:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=38.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=39.0
+[WARN] hot_doc_age_hours trading-rules.md=39.0
+[2026-02-23T16:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T16:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T16:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T16:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T16:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T16:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-23T16:30:03.011112] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T16:30:03.011112] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T16:30:03.011112] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T16:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=39.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=39.5
+[WARN] hot_doc_age_hours trading-rules.md=39.5
+[2026-02-23T16:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T17:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T17:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T17:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T17:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T17:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-23T17:00:02.542615] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T17:00:02.542615] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T17:00:02.542615] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T17:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=39.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=40.0
+[WARN] hot_doc_age_hours trading-rules.md=40.0
+[2026-02-23T17:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T17:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T17:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T17:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T17:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T17:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-23T17:30:02.742954] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T17:30:02.742954] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T17:30:02.742954] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T17:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=40.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=40.5
+[WARN] hot_doc_age_hours trading-rules.md=40.5
+[2026-02-23T17:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T18:00:02-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T18:00:02-05:00] [WARN] obsidian-cli not found
+[2026-02-23T18:00:02-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T18:00:02-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T18:00:02-05:00] [INFO] regime_validator_status=healthy
+[2026-02-23T18:00:02.741872] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T18:00:02.741872] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T18:00:02.741872] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T18:00:02-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=40.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=41.0
+[WARN] hot_doc_age_hours trading-rules.md=41.0
+[2026-02-23T18:00:02-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T18:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T18:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T18:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T18:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T18:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-23T18:30:03.409891] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T18:30:03.409891] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T18:30:03.409891] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T18:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=41.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=41.5
+[WARN] hot_doc_age_hours trading-rules.md=41.5
+[2026-02-23T18:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T19:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T19:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T19:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T19:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T19:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-23T19:00:02.966031] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T19:00:02.966031] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T19:00:02.966031] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T19:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=41.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=42.0
+[WARN] hot_doc_age_hours trading-rules.md=42.0
+[2026-02-23T19:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T19:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T19:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T19:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T19:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T19:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-23T19:30:02.726720] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T19:30:02.726720] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T19:30:02.726720] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T19:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=42.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=42.5
+[WARN] hot_doc_age_hours trading-rules.md=42.5
+[2026-02-23T19:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T20:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T20:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T20:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T20:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T20:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-23T20:00:02.507554] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T20:00:02.507554] [INFO] drift_short: open=True today=2W/1L pnl=$0.58
+[2026-02-23T20:00:02.507554] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T20:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=42.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=43.0
+[WARN] hot_doc_age_hours trading-rules.md=43.0
+[2026-02-23T20:00:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T20:30:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T20:30:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T20:30:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T20:30:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T20:30:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-23T20:30:02.949043] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T20:30:02.949043] [INFO] drift_short: open=True today=3W/1L pnl=$2.08
+[2026-02-23T20:30:02.949043] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T20:30:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=43.4
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=43.5
+[WARN] hot_doc_age_hours trading-rules.md=43.5
+[2026-02-23T20:30:01-05:00] === 30m SYSTEM CHECK END ===
+[2026-02-23T21:00:01-05:00] === 30m SYSTEM CHECK START ===
+[2026-02-23T21:00:01-05:00] [WARN] obsidian-cli not found
+[2026-02-23T21:00:01-05:00] [OK] HEARTBEAT.md active tasks: 23
+[2026-02-23T21:00:01-05:00] [INFO] pm2: no-matching-processes
+[2026-02-23T21:00:01-05:00] [INFO] regime_validator_status=healthy
+[2026-02-23T21:00:02.736148] [INFO] drift_auto: open=False today=4W/2L pnl=$-16.81
+[2026-02-23T21:00:02.736148] [INFO] drift_short: open=True today=3W/1L pnl=$2.08
+[2026-02-23T21:00:02.736148] [INFO] hyper: open=False trades=0 pnl=$0.00
+[2026-02-23T21:00:01-05:00] [INFO] task_progress: open=15 done=2 active='Mission Control UI Upgrade — Mirrors Edge Catalyst Animated Redesign (backend-safe)'
+[WARN] hot_doc_age_hours MEMORY.md=43.9
+[OK] hot_doc_age_hours ops-status.md=0.0
+[WARN] hot_doc_age_hours bot-params.md=44.0
+[WARN] hot_doc_age_hours trading-rules.md=44.0
+[2026-02-23T21:00:01-05:00] === 30m SYSTEM CHECK END ===

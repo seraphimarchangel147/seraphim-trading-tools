@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "skills": {
+    "premium-frontend-design": {
+      "source": "kv0906/cc-skills",
+      "sourceType": "github",
+      "computedHash": "954f360f8e3c2c9ecc97857044ace2da990f519a4b4df8e2bd89c467bcf9273f"
+    },
+    "web-design-patterns": {
+      "source": "jezweb/claude-skills",
+      "sourceType": "github",
+      "computedHash": "44f360324ac6298cc66060160e90f39ad9237cc7c39b5447dd743159f927a306"
+    }
+  }
+}

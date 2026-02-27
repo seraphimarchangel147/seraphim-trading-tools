@@ -1,0 +1,308 @@
+{
+  "ts": "2026-02-23T21:00:02.791523",
+  "total_nodes": 64,
+  "lowest": [
+    {
+      "node": "Legion Comms 2026-02-24",
+      "in": 0,
+      "out": 0,
+      "score": 0
+    },
+    {
+      "node": "todo",
+      "in": 0,
+      "out": 0,
+      "score": 0
+    },
+    {
+      "node": "lessons",
+      "in": 0,
+      "out": 0,
+      "score": 0
+    },
+    {
+      "node": "Gimel (Codex) Integration",
+      "in": 0,
+      "out": 0,
+      "score": 0
+    },
+    {
+      "node": "Skill Capability Audit",
+      "in": 0,
+      "out": 0,
+      "score": 0
+    },
+    {
+      "node": "Gimel Codex Full Potential",
+      "in": 0,
+      "out": 0,
+      "score": 0
+    },
+    {
+      "node": "Gimel Communication Protocol",
+      "in": 0,
+      "out": 0,
+      "score": 0
+    },
+    {
+      "node": "Enterprise AI Synthesis",
+      "in": 0,
+      "out": 0,
+      "score": 0
+    },
+    {
+      "node": "Bug Test Report - Enterprise AI",
+      "in": 0,
+      "out": 0,
+      "score": 0
+    },
+    {
+      "node": "Living Memory Architecture v2",
+      "in": 0,
+      "out": 1,
+      "score": 1
+    },
+    {
+      "node": "MOC - Clawdbit Architecture",
+      "in": 1,
+      "out": 0,
+      "score": 1
+    },
+    {
+      "node": "The 22 Skills",
+      "in": 1,
+      "out": 0,
+      "score": 1
+    },
+    {
+      "node": "Seraphim Manager-Worker Runtime Spec",
+      "in": 1,
+      "out": 0,
+      "score": 1
+    },
+    {
+      "node": "Digital Citadel",
+      "in": 0,
+      "out": 2,
+      "score": 2
+    },
+    {
+      "node": "Auto-Heal System",
+      "in": 0,
+      "out": 2,
+      "score": 2
+    },
+    {
+      "node": "AGENTS.md Spec",
+      "in": 1,
+      "out": 1,
+      "score": 2
+    },
+    {
+      "node": "State Reconciliation",
+      "in": 1,
+      "out": 1,
+      "score": 2
+    },
+    {
+      "node": "Volatility Regime Detection",
+      "in": 2,
+      "out": 0,
+      "score": 2
+    },
+    {
+      "node": "R-Multiple Scale-Out Mechanics",
+      "in": 2,
+      "out": 0,
+      "score": 2
+    },
+    {
+      "node": "Daily Journal Template",
+      "in": 0,
+      "out": 3,
+      "score": 3
+    },
+    {
+      "node": "Legion Upgrade v2.0",
+      "in": 0,
+      "out": 3,
+      "score": 3
+    },
+    {
+      "node": "Seraphim Operating Protocol",
+      "in": 1,
+      "out": 2,
+      "score": 3
+    },
+    {
+      "node": "Maestro-Erelim Integration",
+      "in": 1,
+      "out": 2,
+      "score": 3
+    },
+    {
+      "node": "CLI Sync Test",
+      "in": 3,
+      "out": 0,
+      "score": 3
+    },
+    {
+      "node": "Zettelkasten Scaling",
+      "in": 0,
+      "out": 4,
+      "score": 4
+    }
+  ],
+  "highest": [
+    {
+      "node": "Workflow Cheatsheet - Quick Reference",
+      "in": 7,
+      "out": 0,
+      "score": 7
+    },
+    {
+      "node": "Progressive Disclosure",
+      "in": 5,
+      "out": 3,
+      "score": 8
+    },
+    {
+      "node": "Obsidian CLI Status",
+      "in": 8,
+      "out": 0,
+      "score": 8
+    },
+    {
+      "node": "CLI Test 2026-02-22",
+      "in": 6,
+      "out": 3,
+      "score": 9
+    },
+    {
+      "node": "Contextual Wikilinks",
+      "in": 3,
+      "out": 7,
+      "score": 10
+    },
+    {
+      "node": "2026-02-22",
+      "in": 8,
+      "out": 3,
+      "score": 11
+    },
+    {
+      "node": "Local Brains",
+      "in": 10,
+      "out": 4,
+      "score": 14
+    },
+    {
+      "node": "Graph Health Registry",
+      "in": 10,
+      "out": 4,
+      "score": 14
+    },
+    {
+      "node": "advanced-patterns",
+      "in": 6,
+      "out": 9,
+      "score": 15
+    },
+    {
+      "node": "New Skills and Tools - Legion Arsenal",
+      "in": 11,
+      "out": 5,
+      "score": 16
+    },
+    {
+      "node": "MOC - System Operations",
+      "in": 12,
+      "out": 4,
+      "score": 16
+    },
+    {
+      "node": "Workflow Orchestration v2.0 - Legion Standard",
+      "in": 16,
+      "out": 0,
+      "score": 16
+    },
+    {
+      "node": "Tag Taxonomy",
+      "in": 6,
+      "out": 12,
+      "score": 18
+    },
+    {
+      "node": "Vault Metabolism",
+      "in": 11,
+      "out": 7,
+      "score": 18
+    },
+    {
+      "node": "Maestro Bridge V5",
+      "in": 13,
+      "out": 5,
+      "score": 18
+    },
+    {
+      "node": "Workflows MOC",
+      "in": 5,
+      "out": 14,
+      "score": 19
+    },
+    {
+      "node": "Legion Trading System v2.0 Deployment",
+      "in": 13,
+      "out": 6,
+      "score": 19
+    },
+    {
+      "node": "Agents MOC",
+      "in": 7,
+      "out": 13,
+      "score": 20
+    },
+    {
+      "node": "MOC - Trading",
+      "in": 12,
+      "out": 8,
+      "score": 20
+    },
+    {
+      "node": "Tools MOC",
+      "in": 6,
+      "out": 15,
+      "score": 21
+    },
+    {
+      "node": "MOC - Agent Cognition",
+      "in": 14,
+      "out": 8,
+      "score": 22
+    },
+    {
+      "node": "Trading Systems MOC",
+      "in": 6,
+      "out": 17,
+      "score": 23
+    },
+    {
+      "node": "Welcome",
+      "in": 10,
+      "out": 13,
+      "score": 23
+    },
+    {
+      "node": "Master Index",
+      "in": 8,
+      "out": 16,
+      "score": 24
+    },
+    {
+      "node": "INDEX",
+      "in": 11,
+      "out": 19,
+      "score": 30
+    }
+  ]
+}

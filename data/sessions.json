@@ -1,0 +1,26 @@
+[
+  {
+    "key": "agent:main:main",
+    "agentId": "main",
+    "platform": "main",
+    "recipient": "",
+    "isGroup": false,
+    "status": "idle"
+  },
+  {
+    "key": "agent:main:subagent:cac2b2ce-6e7c-4a6c-b443-78352a08b66f",
+    "agentId": "main",
+    "platform": "subagent",
+    "recipient": "cac2b2ce-6e7c-4a6c-b443-78352a08b66f",
+    "isGroup": false,
+    "status": "idle"
+  },
+  {
+    "key": "agent:main:subagent:17e82290-0d29-4b14-a6c1-8b5aeccccf62",
+    "agentId": "main",
+    "platform": "subagent",
+    "recipient": "17e82290-0d29-4b14-a6c1-8b5aeccccf62",
+    "isGroup": false,
+    "status": "idle"
+  }
+]
